@@ -1,4 +1,4 @@
-<span align="center"> Hi 👋 My name is VLTs </span>
+<h1 align="center"> Hi 👋 My name is VLTs </h1>
 
 Study learning code
 -------------------
