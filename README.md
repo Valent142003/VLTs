@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋 My name is VLTs </h1>
+<h1 align="center"> VLTs </h1>
 
-Study learning code
+<h3 align="center"> Study learning code </h3>
 -------------------
 
 *   🌍  I'm based in Thailand
